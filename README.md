@@ -1,5 +1,5 @@
 bubble.io
-1) https://dubina-ilya-ap.bubbleapps.io/version-test/create_tasks?debug_mode=true
+https://dubina-ilya-ap.bubbleapps.io/version-test/create_tasks?debug_mode=true
 
 integral
-2) https://ideav.online/dinlion/index
+https://ideav.online/dinlion/index
